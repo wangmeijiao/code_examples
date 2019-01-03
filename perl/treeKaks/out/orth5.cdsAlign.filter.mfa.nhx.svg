@@ -1,0 +1,8 @@
+<?xml version='1.0' standalone='no'?><!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'><svg width='1000' height='140' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' ><defs><style type='text/css'><![CDATA[
+ .clade_0 {stroke-width:2;stroke:blue}
+ .leaf-label {font-size:medium;font-family:sans}
+ .inner-label {font-size:10}
+ .edge-label {opacity:0}
+]]></style></defs>
+<!-- arguments: -s -w 1000 -v 100 -S -b opacity:0 -i font-size:10 -d stroke-width:2;stroke:blue out/orth5.cdsAlign.filter.mfa.nhx  -->
+<g transform='translate(0,20)'><g  style='stroke:black;fill:none;stroke-width:1;stroke-linecap:round'><line class='clade_0' x1='10.0000' y1='0.0000' x2='886.0000' y2='0.0000'/><line class='clade_0' x1='10.0000' y1='100.0000' x2='886.0000' y2='100.0000'/><line class='clade_0' x1='10.0000' y1='0.0000' x2='10.0000' y2='100.0000'/><line x1='0' y1='50.0000' x2='10.0000' y2='50.0000'/></g><g style='stroke:none'><text class='leaf-label' x='896.0000' y='4.0000'>Lperr04g01000</text><text class='edge-label' x='448.000000' y='-4.000000'>0.0154827</text><text class='leaf-label' x='896.0000' y='104.0000'>Lperr04g01050</text><text class='edge-label' x='448.000000' y='96.000000'>0.0154827</text></g></g></svg>

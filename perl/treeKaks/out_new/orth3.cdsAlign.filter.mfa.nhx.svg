@@ -1,0 +1,8 @@
+<?xml version='1.0' standalone='no'?><!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'><svg width='1000' height='240' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' ><defs><style type='text/css'><![CDATA[
+ .clade_0 {stroke-width:2;stroke:blue}
+ .leaf-label {font-size:medium;font-family:sans}
+ .inner-label {font-size:10}
+ .edge-label {opacity:0}
+]]></style></defs>
+<!-- arguments: -s -w 1000 -v 100 -S -b opacity:0 -i font-size:10 -d stroke-width:2;stroke:blue out_new/orth3.cdsAlign.filter.mfa.nhx  -->
+<g transform='translate(0,20)'><g  style='stroke:black;fill:none;stroke-width:1;stroke-linecap:round'><line class='clade_0' x1='113.6121' y1='0.0000' x2='535.5629' y2='0.0000'/><line class='clade_0' x1='113.6121' y1='100.0000' x2='885.9974' y2='100.0000'/><line class='clade_0' x1='113.6121' y1='0.0000' x2='113.6121' y2='100.0000'/><line class='clade_0' x1='10.0000' y1='50.0000' x2='113.6121' y2='50.0000'/><line class='clade_0' x1='10.0000' y1='200.0000' x2='886.0000' y2='200.0000'/><line class='clade_0' x1='10.0000' y1='50.0000' x2='10.0000' y2='200.0000'/><line x1='0' y1='125.0000' x2='10.0000' y2='125.0000'/></g><g style='stroke:none'><text class='leaf-label' x='545.5629' y='4.0000'>Lperr04g01370</text><text class='edge-label' x='324.587497' y='-4.000000'>0.0966195</text><text class='leaf-label' x='895.9974' y='104.0000'>Lperr04g01380</text><text class='edge-label' x='499.804747' y='96.000000'>0.176863</text><text class='edge-label' x='61.806057' y='46.000000'>0.0237254</text><text class='leaf-label' x='896.0000' y='204.0000'>Lperr04g01440</text><text class='edge-label' x='448.000000' y='196.000000'>0.200589</text></g></g></svg>
